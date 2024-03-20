@@ -4,7 +4,7 @@ It may be an input you provide to the file, a constant used in an expression or 
 
 # Compatibility
 All files were tested on windows and linux on python 3.12.1. If you experience any issues getting a challenge to run 
-(all challenges should exit normally when executed in script mode), make sure you're on python 3.12**.1** 
+(all challenges should exit normally when executed in script mode), make sure you're on python 3.12 **.1** 
 installed via the msi installer from python.org (if you're on windows) and try downloading the file again.
 If you still experience issues, send me a message on discord @`sand_trees` or make a github issue.
 

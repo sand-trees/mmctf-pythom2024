@@ -1,0 +1,1 @@
+[print("you are unenlightened")if any(([l+[len(l)!=18]]for l in[[(ord(c)+i)^x for i,c,x in[(*x,y)for x,y in zip(enumerate(input("share your wisdom: ")),[102,109,99,106,127,107,55,117,108,104,126,115,63,108,121,66,137,142])]]]).__next__()[0])else print("all becomes clear")]

@@ -8,6 +8,11 @@ All files were tested on windows and linux on python 3.12.1. If you experience a
 installed via the msi installer from python.org (if you're on windows) and try downloading the file again.
 If you still experience issues, send me a message on discord @`sand_trees` or make a github issue.
 
+# Difficulty
+From easiest to hardest, the challenges are (in my opinion):  
+crypt0 < keep_digging <<< think_fast < longday  
+~~point values on the flag tracker are kind of scuffed ngl if sudoku was 400 points longday should be at least 1000~~
+
 # Note
 The version of `crypt0.py` in this repo is different to the one on the MMCTF webpage, fixing a minor bug present in the original. 
 It's still possible to get the flag from either version, but if you had trouble figuring out what to do next the fix should make it clear.
